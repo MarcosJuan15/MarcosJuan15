@@ -10,10 +10,5 @@ Me llamo Marcos Juan, tengo 20 años y estoy en camino a convertirme en desarrol
 
 ## 💻 Lenguajes de Programación
 
-![Texto alternativo](html.png)
+<img src="html.png" alt="HTML" width="50" height="50">  <img src="css.png" alt="CSS" width="50">  <img src="js.png" alt="JavaScript" width="50">
 
-<img src="html.png" alt="HTML" width="300">
-
-![Texto alternativo](css.png)
-
-![Texto alternativo](js.png)
