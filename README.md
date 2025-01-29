@@ -14,7 +14,7 @@ Me llamo Marcos Juan, tengo 20 años y estoy en camino a convertirme en desarrol
 <img src="css.png" alt="CSS" width="50">  
 <img src="js.png" alt="JavaScript" width="50">
 <img src="https://img.icons8.com/color/512/bootstrap--v2.png" alt="Bootstrap" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="50" height="40"/>
 <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="React" width="50" height="50"/>
 
 ## 📫 Contacto
