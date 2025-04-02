@@ -1,22 +1,24 @@
 ## 👋 ¡Hola! Soy Marcos Juan
 
+👨‍💻 **Full Stack Developer**
+
+
 🇪🇸 **Desde Jaén, España**
 
-👨‍💻 **Estudiante de Desarrollo Web Full Stack**
 
-🎓 **4Geeks Academy**
-
-Me llamo Marcos Juan, tengo 20 años y estoy en camino a convertirme en desarrollador web full stack. Actualmente, me enfoco en aprender lenguajes de programación y tecnologías de frontend y backend.
+Desarrollador Full-Sack con conocimientos en JavaScript, React, Python, Flask y SQL. Motivado por el aprendizaje continuo, el trabajo en equipo y la resolución de nuevos retos.
 
 ## 💻 Lenguajes de Programación
 
 <p align="left">
-  <img src="html.png" alt="HTML" width="50" height="50">  
-  <img src="css.png" alt="CSS" width="50">  
-  <img src="js.png" alt="JavaScript" width="50">
-  <img src="https://img.icons8.com/color/512/bootstrap--v2.png" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" width="50" height="40"/>
-  <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="React" width="50" height="50"/>
+  <img src="html.png" alt="Logo HTML" width="50" height="50">  
+  <img src="css.png" alt="Logo CSS" width="50">  
+  <img src="js.png" alt="Logo JavaScript" width="50">
+  <img src="https://img.icons8.com/color/512/bootstrap--v2.png" alt="Logo Bootstrap" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Logo React" width="45" height="40"/>
+  <img src="https://img.icons8.com/fluent/512/flask.png" alt="Logo Flask" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Logo Python" width="50" height="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-1024x532-p138xy0y.png" alt="Logo MySQL" width="50" height="50"/>
 </p>
 
 ## 📫 Contacto
