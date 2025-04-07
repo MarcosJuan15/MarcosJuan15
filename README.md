@@ -10,19 +10,25 @@ Desarrollador Full-Sack con conocimientos en JavaScript, React, Python, Flask y 
 
 ## 💻 Lenguajes de Programación
 
-<p align="left">
-  <img src="html.png" alt="Logo HTML" width="50" height="50">  
-  <img src="css.png" alt="Logo CSS" width="50">  
-  <img src="js.png" alt="Logo JavaScript" width="50">
-  <img src="https://img.icons8.com/color/512/bootstrap--v2.png" alt="Logo Bootstrap" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Logo React" width="45" height="40"/>
-  <img src="https://img.icons8.com/fluent/512/flask.png" alt="Logo Flask" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Logo Python" width="50" height="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-1024x532-p138xy0y.png" alt="Logo MySQL" width="50" height="50"/>
+<p>
+  <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Logo Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Logo SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 
 ## 📫 Contacto
 
-[![Correo](https://img.shields.io/badge/Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:martospradosmarcos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosjuanmartosprados)
+<div>
+  <a href="mailto:martospradosmarcos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/marcosjuanmartosprados" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
