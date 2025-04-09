@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Marcos Juan
 
-👨‍💻 **Full Stack Developer**
+👨‍💻 **Full-Stack Developer**
 
 
 🇪🇸 **Desde Jaén, España**
@@ -20,6 +20,18 @@ Desarrollador Full-Sack con conocimientos en JavaScript, React, Python, Flask y 
   <img align="center" alt="Logo Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logo SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
+
+
+## 🌟 Proyecto destacado
+
+**4Fantasy** es una página web donde los usuarios pueden crear su propio equipo con jugadores reales de fútbol y unirse a ligas para competir con sus amigos. El objetivo es que, a medida que los jugadores seleccionados en tu equipo rindan en la vida real, obtengas puntos basados en sus goles, asistencias y otras estadísticas. Sin embargo, si los jugadores reciben tarjetas amarillas o rojas, perderás puntos en tu equipo.⚽️
+
+🛠️ **Tecnologías usadas**: React, Python, CSS, Bootstrap, Flask, SQLAlchemy
+
+🔗 **Enlace a la web desplegada**: https://sample-service-name-ugdt.onrender.com/
+
+📂 **Repositorio en GitHub**: https://github.com/4GeeksAcademy/sp91-final-project-g1
+
 
 ## 📫 Contacto
 
